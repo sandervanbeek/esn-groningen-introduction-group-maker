@@ -15,7 +15,7 @@ If you encounter any problems or have questions, please feel free to reach out f
 - [License](#license)
 
 ## Getting started
-The `.jar` file is in `out/artifacts/groupmaker.jar`. You can download this file to immediately run the application. If you prefer to work with the source code, you can also clone the repository and compile it using your preferred method.
+The `group-maker.jar` file can be found in the root directory of this repository. You can download this file to immediately run the application. If you prefer to work with the source code, you can also clone the repository and compile it using your preferred method.
     
 ### Prerequisites
 - Java Development Kit (JDK) 11 or higher
